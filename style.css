@@ -12,8 +12,10 @@ body {
       h3 {
         text-align: center;
 
-
-
+      }
+      #reference{
+        font-size: small;
+        text-align: left;
       }
 
 p {
@@ -21,7 +23,7 @@ p {
   padding: 2%;
 }
 
-div {
+#quotes {
   margin: auto;
   font-weight: 300;
   font-size: 28px;
